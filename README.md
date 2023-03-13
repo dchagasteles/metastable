@@ -1,9 +1,4 @@
-# <img src="logo.svg" alt="Balancer" height="128px">
-
-# Balancer Metastable Rate Providers
-
-[![CI Status](https://github.com/balancer-labs/metastable-rate-providers/workflows/CI/badge.svg)](https://github.com/balancer-labs/metastable-rate-providers/actions)
-[![License](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# Metastable Rate Providers
 
 This repository contains adaptors which provide accurate values of tokens to be used in the Balancer Protocol V2 metastable pools, along with their tests, configuration, and deployment information.
 
